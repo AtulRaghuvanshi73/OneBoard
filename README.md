@@ -1,6 +1,4 @@
-# Project Name
-
-OneBoard
+# OneBoard
 
 ## Description
 
